@@ -1,6 +1,6 @@
 ---
 letsencrypt_email: ops-noreply@zingbox.com
-letsencrypt_domains: [monitor.cloud.zingbox.com]
+letsencrypt_domains: []
 
 letsencrypt_bind_port: 443
 letsencrypt_challenge: tls-sni-01
